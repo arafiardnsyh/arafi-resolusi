@@ -1,3 +1,4 @@
 rencana kerja
 -lamar kerja pabrik
+*loker sosmed
 -coba bikin portofolio buat programmer
