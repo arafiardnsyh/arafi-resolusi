@@ -1,3 +1,4 @@
 rencana kerja
 -lamar kerja pabrik
+*koneksi teth
 -coba bikin portofolio buat programmer
