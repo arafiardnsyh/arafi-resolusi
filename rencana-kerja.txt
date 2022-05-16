@@ -1,4 +1,4 @@
 rencana kerja
 -lamar kerja pabrik
-*loker sosmed
+*koneksi teth
 -coba bikin portofolio buat programmer
